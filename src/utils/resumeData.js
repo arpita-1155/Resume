@@ -84,7 +84,7 @@ export default {
           title: "Resume Web App",
           description: "A resume webpage built with React components offers a modern and interactive way to showcase personal and professional information. It features sections like [About Me] [Education History] and [Skills] each implemented as separate components. This approach ensures a clean, responsive, and user-friendly interface for presenting qualifications and experience.",
         //   image: "",
-          link: "http://localhost:3000/resume"
+          link: "https://6689a670101d2c1532ef2244--resume1155.netlify.app/"
         },
       ],
     };
