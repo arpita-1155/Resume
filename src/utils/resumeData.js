@@ -52,7 +52,7 @@ export default {
         },
 
         college:{
-            name: 'Government College og Engineering, Karad',
+            name: 'Government College of Engineering, Karad',
             year: 'Passing Year: 2027(Expected)',
             board: 'University: Shivaji University',
         },
